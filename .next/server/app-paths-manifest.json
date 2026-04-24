@@ -1,0 +1,5 @@
+{
+  "/api/analyze-text/route": "app/api/analyze-text/route.js",
+  "/history/page": "app/history/page.js",
+  "/page": "app/page.js"
+}
